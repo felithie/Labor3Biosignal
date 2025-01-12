@@ -1,6 +1,7 @@
 #!/usr/bin/env python3
 # -*- coding: utf-8 -*-
 
+#Lab3Functions(2).py
 
 import numpy as np
 from scipy import fftpack
